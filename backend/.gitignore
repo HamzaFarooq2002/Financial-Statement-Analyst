@@ -1,0 +1,13 @@
+.env
+*.db
+*.db-*
+uploads/
+uploads_test/
+exports/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.tmp/
+pytest-temp-*/
+pytest-temp-run/
+pytest-cache-files-*/
