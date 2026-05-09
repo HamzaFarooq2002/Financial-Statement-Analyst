@@ -2,6 +2,22 @@
 
 End-to-end setup that avoids common pitfalls (wrong folder for Python imports, frontend/backend port mismatches).
 
+## Purpose of the Agent
+
+This project turns annual-report PDFs into actionable financial intelligence for analysts and decision-makers.
+
+- Extracts key financial metrics from uploaded statements with source grounding.
+- Calculates ratios and trend signals to highlight performance changes.
+- Generates AI-assisted insights with confidence cues and references.
+- Supports multi-year comparison to review side-by-side trends.
+- Exports analysis artifacts (dashboard data and Excel reports) for sharing.
+
+## Dashboard Preview
+
+Add your dashboard screenshot at `docs/images/dashboard.png` and it will render here on GitHub:
+
+![Financial Analyst Dashboard](docs/images/dashboard.png)
+
 ## Prerequisites
 
 - Python 3.11+ (3.13 OK)
